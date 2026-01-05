@@ -6,7 +6,7 @@ Esta carpeta contiene los **datos limpios y organizados** derivados de los archi
 
 ## Proceso de limpieza y consolidación
 
-Los datos fueron procesados mediante el script **`extraer.m`**, el cual realiza las siguientes tareas:
+Los datos fueron limpiados mediante el script **`extraer.m`**, el cual realiza las siguientes tareas:
 
 - Apila todos los archivos de medición individual correspondientes a cada posición angular en un **único archivo consolidado** (med_29_mayo_2025_extract)
 - De este archivo de extrae exclusivamente la variable **LZeq**, que es la magnitud de interés para el análisis del patrón de radiación.
@@ -23,7 +23,6 @@ Los archivos contenidos en esta carpeta están pensados para:
 - Servir como **entrada directa** a los scripts de análisis.
 - Facilitar la reproducibilidad del procesamiento de datos.
 - Evitar la manipulación directa de los datos crudos.
-
 
 ## Relación con otras carpetas
 

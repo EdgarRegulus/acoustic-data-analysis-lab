@@ -1,6 +1,6 @@
 # Análisis acústico de una fuente omnidireccional en cámara anecoica
 
-Este repositorio presenta un **análisis de datos acústicos experimentales** para evaluar una bocina dodecaédrica presuntamente omnidireccional, utilizando una **cámara anecoica** del Laboratorio de Acústica y Vibraciones del ICAT-UNAM. El proyecto integra mediciones reales, procesamiento numérico y visualización de datos, siguiendo criterios establecidos por las normas **ISO 140-3** e **ISO 3382-2**, y está orientado a mostrar un flujo de trabajo reproducible de análisis de datos científicos.
+Este repositorio presenta un **análisis de datos acústicos experimentales** para evaluar una **bocina dodecaédrica presuntamente omnidireccional**, utilizando una **cámara anecoica** del Laboratorio de Acústica y Vibraciones del ICAT-UNAM. El proyecto integra mediciones reales, procesamiento numérico y visualización de datos, siguiendo criterios establecidos por las normas **ISO 140-3** e **ISO 3382-2**, y está orientado a mostrar un flujo de trabajo reproducible de análisis de datos científicos.
 
 ---
 
